@@ -25,7 +25,7 @@ module.exports = {
         type: Sequelize.INTEGER
       },
       role: {
-        type: Sequelize.STRING
+        type: Sequelize.
       },
       status: {
         type: Sequelize.STRING
